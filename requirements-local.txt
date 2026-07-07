@@ -1,0 +1,4 @@
+yt-dlp>=2024.4.9
+youtube-transcript-api>=0.6.2
+GitPython>=3.1.40
+python-dotenv>=1.0.0
